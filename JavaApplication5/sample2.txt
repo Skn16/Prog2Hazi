@@ -1,0 +1,4 @@
+Gipsz Jakab:4027:Debrecen:Boszormenyi ut:12:30000
+Teszt Elek:4031:Debrecen:Kishegyesi ut:31:20000
+Meno Jeno:4028:Debrecen:Kassai ut:26:10000
+Bena Bela:4027:Debrecen:Sinai Miklos utca:10:50000
